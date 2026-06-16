@@ -1,0 +1,12 @@
+{
+  "domain": "concerto",
+  "name": "Concerto",
+  "version": "0.0.0",
+  "documentation": "https://github.com/HomeOps/concerto",
+  "issue_tracker": "https://github.com/HomeOps/concerto/issues",
+  "codeowners": ["@HomeOps"],
+  "config_flow": true,
+  "integration_type": "hub",
+  "iot_class": "local_push",
+  "requirements": []
+}

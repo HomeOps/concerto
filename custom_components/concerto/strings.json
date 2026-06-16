@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Concerto",
+        "description": "Name this Concerto remote. You'll add devices and activities next.",
+        "data": {
+          "name": "Name"
+        }
+      }
+    }
+  }
+}
